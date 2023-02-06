@@ -17,4 +17,4 @@ flowchart TD;
 
 ## References
 
-Checkout my medium article where I go through the steps of creating the flowchart- 
+Checkout my medium article where I go through the steps of creating the flowchart- https://tirthyakamaldasgupta12.medium.com/visualize-the-flow-of-your-application-right-within-vs-code-with-mermaid-55e234ba4be0
