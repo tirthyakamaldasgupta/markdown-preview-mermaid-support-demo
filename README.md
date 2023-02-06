@@ -4,13 +4,9 @@ Flowchart designed with Markdown Preview Mermaid Support VS Code extension.
 
 ## Problem statement
 
----
-
 Visualize the flow to determine whether a number is even or odd.
 
 ## Flowchart
-
----
 
 ```mermaid
 flowchart TD;
@@ -20,7 +16,5 @@ flowchart TD;
 ```
 
 ## References
-
----
 
 Checkout my medium article where I go through the steps of creating the flowchart- 
