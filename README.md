@@ -1,4 +1,4 @@
-# Markdown preview mermaid support demo
+# Markdown Preview Mermaid Support demo
 
 Flowchart designed with Markdown Preview Mermaid Support VS Code extension.
 
